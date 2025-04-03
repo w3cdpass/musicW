@@ -2,7 +2,6 @@
 import React from "react";
 import { motion } from "motion/react";
 import Link, { LinkProps } from "next/link";import Image from "next/image";
-import Image from "next/image";
 const transition = {
   type: "spring",
   mass: 0.5,
